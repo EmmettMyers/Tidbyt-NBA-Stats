@@ -1,1 +1,1 @@
-# Tidbyt-NBA-Stats-Widget
+# Tidbyt NBA Stat Leaders Widget
