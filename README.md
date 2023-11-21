@@ -1,1 +1,1 @@
-# Tidbyt_NBA_Stats_Widget
+# Tidbyt-NBA-Stats-Widget
