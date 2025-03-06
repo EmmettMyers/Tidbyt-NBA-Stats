@@ -7,5 +7,11 @@
   <img src="screenshots/example.gif" style="width: 520px" />
 </div>
 
-<p>Parses through the official NBA statistics webpage and obtains the current league leaders in the top 5 most popular stats (points, rebounds, assists, steals, blocks).</p>
-<p>Data is visualized, animated, and exported to Tidbyt pixel display devices. The app is publicly available in the Tidbyt App Store with the name "NBA Stat Leaders".</p>
+<b><br/>A publicly available app in the Tidbyt store (name: "NBA Stat Leaders") that displays the current NBA league leaders in the top 5 most popular statistics - points, rebounds, assists, steals and blocks.</b>
+<p>It fetches up-to-date stats by parsing through the official NBA statistics webpage, then it visualizes and animates the data using Pixlet.</p>
+
+<b>Tools used:</b>
+<ul>
+  <li>Starlark</li>
+  <li>Pixlet</li>
+</ul>
