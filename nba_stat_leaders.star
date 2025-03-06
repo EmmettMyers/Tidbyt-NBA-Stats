@@ -1,6 +1,15 @@
+"""
+Applet: NBA Stats
+Summary: NBA Stat Leaders
+Description: Displays the current NBA leaders in PPG, RPG, APG, BPG and SPG.
+Author: Emmett Myers
+"""
+
+
 load("render.star", "render")
 load("http.star", "http")
 load("time.star", "time")
+
 
 def main():
     season_str = get_current_season()
