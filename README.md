@@ -1,6 +1,6 @@
 # Tidbyt NBA Stat Leaders Widget
 
-<i>Created: Thanksgiving Break 2023 (College Sophomore)</i>
+<i>Created: Thanksgiving Break 2023 (College Sophomore)<br/>* updated/deployed spring 2025 *</i>
 
 <img src="example.gif" style="width: 600px" />
 
