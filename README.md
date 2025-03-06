@@ -1,4 +1,4 @@
-# Tidbyt NBA Stat Leaders Widget
+# Tidbyt NBA Stat Leaders App
 
 <i>Created: Thanksgiving Break 2023 (College Sophomore)<br/>* updated/deployed spring 2025 *</i>
 
